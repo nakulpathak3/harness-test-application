@@ -1,4 +1,5 @@
 # test comment
+# test comment2
 harnessApiVersion: '1.0'
 type: APPLICATION_DEFAULTS
 defaults:
